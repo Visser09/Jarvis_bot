@@ -1,0 +1,10 @@
+openai
+requests
+tk
+pillow
+pyttsx3
+speechrecognition
+pyaudio
+numpy
+python-dotenv
+sqlite3
